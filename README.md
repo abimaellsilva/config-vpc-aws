@@ -48,6 +48,6 @@
 <p>Criarei a segunda subnet para minha subrede publica.</p>
 
 <img height="800" width="850" src="/src/print/7.vpc.png">
-<img height="800" width="850" src="/src/print/6.vpc.png">
+<img height="800" width="850" src="/src/print/8.vpc.png">
 
 <p> Após isso só clicar o botão abaixo de <b>Create Subnet</b> para finalizar.</p>
